@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>テスト</title>
+<style>
+body{font-family:-apple-system,"Hiragino Sans",sans-serif;margin:0;padding:16px;background:#f2f2f7;color:#1c1c1e}
+@media (prefers-color-scheme: dark){body{background:#000;color:#f2f2f7}}
+h1{font-size:18px}
+h2{font-size:14px;color:#8e8e93;margin:20px 0 6px;font-weight:600}
+#summary{font-size:16px;font-weight:600;margin:12px 0}
+.pass{color:#34c759}.fail{color:#ff3b30}
+ul{list-style:none;padding:0;margin:0}
+li{padding:6px 0;border-bottom:1px solid rgba(128,128,128,.3);font-size:14px}
+.msg{display:block;color:#ff3b30;font-size:13px;margin-top:2px}
+</style>
+</head>
+<body>
+<h1>テスト</h1>
+<div id="summary">実行中…</div>
+<div id="out"></div>
+<script type="module">
+import { results as srsResults } from "./test/srs.test.js";
+import { results as ttsResults } from "./test/tts.test.js";
+import { run as runAudio } from "./test/audio.test.js";
+import { run as runAudioCache } from "./test/audiocache.test.js";
+import { run as runSw } from "./test/sw.test.js";
+import { run as runStore } from "./test/store.test.js";
+
+const audioResults = await runAudio();
+const cacheResults = await runAudioCache();
+const swResults = await runSw();
+const storeResults = await runStore();
+
+const suites = [
+  { title: "復習ロジック (js/srs.js)", results: srsResults },
+  { title: "音読の速度 (js/tts.js)", results: ttsResults },
+  { title: "同梱音声 (js/audio.js + audio/manifest.json)", results: audioResults },
+  { title: "音声のダウンロード (js/audiocache.js)", results: cacheResults },
+  { title: "オフライン対応 (sw.js の先読みリスト)", results: swResults },
+  { title: "プロフィールと移行 (js/store.js)", results: storeResults },
+];
+
+const all = suites.flatMap((s) => s.results);
+const passed = all.filter((r) => r.ok).length;
+const failed = all.length - passed;
+
+const summary = document.getElementById("summary");
+summary.textContent = failed === 0
+  ? `全 ${all.length} 件 合格`
+  : `${passed} 件合格 / ${failed} 件失敗`;
+summary.className = failed === 0 ? "pass" : "fail";
+
+document.getElementById("out").innerHTML = suites.map((s) => {
+  const ng = s.results.filter((r) => !r.ok).length;
+  return `<h2>${s.title} — ${s.results.length - ng} / ${s.results.length}</h2><ul>` +
+    s.results.map((r) =>
+      `<li><span class="${r.ok ? "pass" : "fail"}">${r.ok ? "✓" : "✗"}</span> ${r.name}` +
+      (r.ok ? "" : `<span class="msg">${r.message}</span>`) + `</li>`
+    ).join("") + `</ul>`;
+}).join("");
+
+document.title = failed === 0 ? "TEST PASS" : `TEST FAIL (${failed})`;
+</script>
+</body>
+</html>

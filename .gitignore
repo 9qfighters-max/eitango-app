@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+
+# エディタ
+.vscode/
+.idea/
+*.swp
+
+# 配布物に含めない作業ファイル(audio/ に展開済み、元データはxlsx)
+example_audio.zip
+vocab_v5.numbers
+vocab_v5.xlsx

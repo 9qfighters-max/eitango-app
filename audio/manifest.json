@@ -1,0 +1,1986 @@
+{
+ "voice": "af_heart",
+ "engine": "Kokoro-82M (kokoro-onnx)",
+ "clips": {
+  "p001": {
+   "text": "How about going shopping?",
+   "normal": "normal/p001.mp3",
+   "slow": "slow/p001.mp3"
+  },
+  "p002": {
+   "text": "Why don't we play tennis?",
+   "normal": "normal/p002.mp3",
+   "slow": "slow/p002.mp3"
+  },
+  "p003": {
+   "text": "Would you like to come with us?",
+   "normal": "normal/p003.mp3",
+   "slow": "slow/p003.mp3"
+  },
+  "p004": {
+   "text": "Shall I open the window?",
+   "normal": "normal/p004.mp3",
+   "slow": "slow/p004.mp3"
+  },
+  "p005": {
+   "text": "How many books do you have?",
+   "normal": "normal/p005.mp3",
+   "slow": "slow/p005.mp3"
+  },
+  "p006": {
+   "text": "How much is this bag?",
+   "normal": "normal/p006.mp3",
+   "slow": "slow/p006.mp3"
+  },
+  "p007": {
+   "text": "How long did you stay there?",
+   "normal": "normal/p007.mp3",
+   "slow": "slow/p007.mp3"
+  },
+  "p008": {
+   "text": "How often do you play tennis?",
+   "normal": "normal/p008.mp3",
+   "slow": "slow/p008.mp3"
+  },
+  "p009": {
+   "text": "What time do you get up?",
+   "normal": "normal/p009.mp3",
+   "slow": "slow/p009.mp3"
+  },
+  "p010": {
+   "text": "What kind of music do you like?",
+   "normal": "normal/p010.mp3",
+   "slow": "slow/p010.mp3"
+  },
+  "p011": {
+   "text": "Can I use your pen?",
+   "normal": "normal/p011.mp3",
+   "slow": "slow/p011.mp3"
+  },
+  "p012": {
+   "text": "May I come in?",
+   "normal": "normal/p012.mp3",
+   "slow": "slow/p012.mp3"
+  },
+  "p013": {
+   "text": "Could you help me?",
+   "normal": "normal/p013.mp3",
+   "slow": "slow/p013.mp3"
+  },
+  "p014": {
+   "text": "Let's go to the park.",
+   "normal": "normal/p014.mp3",
+   "slow": "slow/p014.mp3"
+  },
+  "p015": {
+   "text": "Don't run in the hall.",
+   "normal": "normal/p015.mp3",
+   "slow": "slow/p015.mp3"
+  },
+  "p016": {
+   "text": "Nice to meet you, Ken.",
+   "normal": "normal/p016.mp3",
+   "slow": "slow/p016.mp3"
+  },
+  "p017": {
+   "text": "Thank you for coming.",
+   "normal": "normal/p017.mp3",
+   "slow": "slow/p017.mp3"
+  },
+  "p018": {
+   "text": "I'm sorry I'm late.",
+   "normal": "normal/p018.mp3",
+   "slow": "slow/p018.mp3"
+  },
+  "p019": {
+   "text": "Here you are.",
+   "normal": "normal/p019.mp3",
+   "slow": "slow/p019.mp3"
+  },
+  "p020": {
+   "text": "Good luck on your test!",
+   "normal": "normal/p020.mp3",
+   "slow": "slow/p020.mp3"
+  },
+  "p021": {
+   "text": "What's wrong with you?",
+   "normal": "normal/p021.mp3",
+   "slow": "slow/p021.mp3"
+  },
+  "p022": {
+   "text": "Just a moment, please.",
+   "normal": "normal/p022.mp3",
+   "slow": "slow/p022.mp3"
+  },
+  "p023": {
+   "text": "That sounds good.",
+   "normal": "normal/p023.mp3",
+   "slow": "slow/p023.mp3"
+  },
+  "p024": {
+   "text": "I'd like some water.",
+   "normal": "normal/p024.mp3",
+   "slow": "slow/p024.mp3"
+  },
+  "p025": {
+   "text": "There are two cats in the garden.",
+   "normal": "normal/p025.mp3",
+   "slow": "slow/p025.mp3"
+  },
+  "p026": {
+   "text": "It's time to go to bed.",
+   "normal": "normal/p026.mp3",
+   "slow": "slow/p026.mp3"
+  },
+  "p027": {
+   "text": "I'm looking for my key.",
+   "normal": "normal/p027.mp3",
+   "slow": "slow/p027.mp3"
+  },
+  "p028": {
+   "text": "Look at this picture.",
+   "normal": "normal/p028.mp3",
+   "slow": "slow/p028.mp3"
+  },
+  "p029": {
+   "text": "I'm looking forward to seeing you.",
+   "normal": "normal/p029.mp3",
+   "slow": "slow/p029.mp3"
+  },
+  "p030": {
+   "text": "She looks like her mother.",
+   "normal": "normal/p030.mp3",
+   "slow": "slow/p030.mp3"
+  },
+  "p031": {
+   "text": "I take care of my dog.",
+   "normal": "normal/p031.mp3",
+   "slow": "slow/p031.mp3"
+  },
+  "p032": {
+   "text": "He took part in the contest.",
+   "normal": "normal/p032.mp3",
+   "slow": "slow/p032.mp3"
+  },
+  "p033": {
+   "text": "I get up at six.",
+   "normal": "normal/p033.mp3",
+   "slow": "slow/p033.mp3"
+  },
+  "p034": {
+   "text": "We got to the station at nine.",
+   "normal": "normal/p034.mp3",
+   "slow": "slow/p034.mp3"
+  },
+  "p035": {
+   "text": "I have to do my homework.",
+   "normal": "normal/p035.mp3",
+   "slow": "slow/p035.mp3"
+  },
+  "p036": {
+   "text": "I come from Tokyo.",
+   "normal": "normal/p036.mp3",
+   "slow": "slow/p036.mp3"
+  },
+  "p037": {
+   "text": "He will come back soon.",
+   "normal": "normal/p037.mp3",
+   "slow": "slow/p037.mp3"
+  },
+  "p038": {
+   "text": "Please go on with your story.",
+   "normal": "normal/p038.mp3",
+   "slow": "slow/p038.mp3"
+  },
+  "p039": {
+   "text": "I'm waiting for the bus.",
+   "normal": "normal/p039.mp3",
+   "slow": "slow/p039.mp3"
+  },
+  "p040": {
+   "text": "I talked to my teacher.",
+   "normal": "normal/p040.mp3",
+   "slow": "slow/p040.mp3"
+  },
+  "p041": {
+   "text": "I'm thinking about my future.",
+   "normal": "normal/p041.mp3",
+   "slow": "slow/p041.mp3"
+  },
+  "p042": {
+   "text": "I listen to music every day.",
+   "normal": "normal/p042.mp3",
+   "slow": "slow/p042.mp3"
+  },
+  "p043": {
+   "text": "Put on your coat.",
+   "normal": "normal/p043.mp3",
+   "slow": "slow/p043.mp3"
+  },
+  "p044": {
+   "text": "Take off your shoes.",
+   "normal": "normal/p044.mp3",
+   "slow": "slow/p044.mp3"
+  },
+  "p045": {
+   "text": "Turn off the TV.",
+   "normal": "normal/p045.mp3",
+   "slow": "slow/p045.mp3"
+  },
+  "p046": {
+   "text": "Don't give up!",
+   "normal": "normal/p046.mp3",
+   "slow": "slow/p046.mp3"
+  },
+  "p047": {
+   "text": "Please sit down.",
+   "normal": "normal/p047.mp3",
+   "slow": "slow/p047.mp3"
+  },
+  "p048": {
+   "text": "Stand up, please.",
+   "normal": "normal/p048.mp3",
+   "slow": "slow/p048.mp3"
+  },
+  "p049": {
+   "text": "I woke up at seven.",
+   "normal": "normal/p049.mp3",
+   "slow": "slow/p049.mp3"
+  },
+  "p050": {
+   "text": "I go to the library every week.",
+   "normal": "normal/p050.mp3",
+   "slow": "slow/p050.mp3"
+  },
+  "p051": {
+   "text": "Let's go shopping tomorrow.",
+   "normal": "normal/p051.mp3",
+   "slow": "slow/p051.mp3"
+  },
+  "p052": {
+   "text": "I go home at five.",
+   "normal": "normal/p052.mp3",
+   "slow": "slow/p052.mp3"
+  },
+  "p053": {
+   "text": "Don't go out in the rain.",
+   "normal": "normal/p053.mp3",
+   "slow": "slow/p053.mp3"
+  },
+  "p054": {
+   "text": "Please come in.",
+   "normal": "normal/p054.mp3",
+   "slow": "slow/p054.mp3"
+  },
+  "p055": {
+   "text": "We had a good time at the party.",
+   "normal": "normal/p055.mp3",
+   "slow": "slow/p055.mp3"
+  },
+  "p056": {
+   "text": "I have lunch with my friends.",
+   "normal": "normal/p056.mp3",
+   "slow": "slow/p056.mp3"
+  },
+  "p057": {
+   "text": "She has a cold today.",
+   "normal": "normal/p057.mp3",
+   "slow": "slow/p057.mp3"
+  },
+  "p058": {
+   "text": "I will do my best.",
+   "normal": "normal/p058.mp3",
+   "slow": "slow/p058.mp3"
+  },
+  "p059": {
+   "text": "I do my homework after dinner.",
+   "normal": "normal/p059.mp3",
+   "slow": "slow/p059.mp3"
+  },
+  "p060": {
+   "text": "My sister plays the piano.",
+   "normal": "normal/p060.mp3",
+   "slow": "slow/p060.mp3"
+  },
+  "p061": {
+   "text": "Can you speak English?",
+   "normal": "normal/p061.mp3",
+   "slow": "slow/p061.mp3"
+  },
+  "p062": {
+   "text": "He looked around the room.",
+   "normal": "normal/p062.mp3",
+   "slow": "slow/p062.mp3"
+  },
+  "p063": {
+   "text": "Look out! A car is coming.",
+   "normal": "normal/p063.mp3",
+   "slow": "slow/p063.mp3"
+  },
+  "p064": {
+   "text": "She looks after her little brother.",
+   "normal": "normal/p064.mp3",
+   "slow": "slow/p064.mp3"
+  },
+  "p065": {
+   "text": "Look up the word in a dictionary.",
+   "normal": "normal/p065.mp3",
+   "slow": "slow/p065.mp3"
+  },
+  "p066": {
+   "text": "I take a bus to school.",
+   "normal": "normal/p066.mp3",
+   "slow": "slow/p066.mp3"
+  },
+  "p067": {
+   "text": "Let me take a picture of you.",
+   "normal": "normal/p067.mp3",
+   "slow": "slow/p067.mp3"
+  },
+  "p068": {
+   "text": "I take a shower every morning.",
+   "normal": "normal/p068.mp3",
+   "slow": "slow/p068.mp3"
+  },
+  "p069": {
+   "text": "Let's take a rest here.",
+   "normal": "normal/p069.mp3",
+   "slow": "slow/p069.mp3"
+  },
+  "p070": {
+   "text": "Take out your notebook.",
+   "normal": "normal/p070.mp3",
+   "slow": "slow/p070.mp3"
+  },
+  "p071": {
+   "text": "I got home at six.",
+   "normal": "normal/p071.mp3",
+   "slow": "slow/p071.mp3"
+  },
+  "p072": {
+   "text": "Get out of the car.",
+   "normal": "normal/p072.mp3",
+   "slow": "slow/p072.mp3"
+  },
+  "p073": {
+   "text": "Get ready for school.",
+   "normal": "normal/p073.mp3",
+   "slow": "slow/p073.mp3"
+  },
+  "p074": {
+   "text": "I hope you get well soon.",
+   "normal": "normal/p074.mp3",
+   "slow": "slow/p074.mp3"
+  },
+  "p075": {
+   "text": "Give me a hand, please.",
+   "normal": "normal/p075.mp3",
+   "slow": "slow/p075.mp3"
+  },
+  "p076": {
+   "text": "I made a mistake on the test.",
+   "normal": "normal/p076.mp3",
+   "slow": "slow/p076.mp3"
+  },
+  "p077": {
+   "text": "Let's make a plan for the trip.",
+   "normal": "normal/p077.mp3",
+   "slow": "slow/p077.mp3"
+  },
+  "p078": {
+   "text": "Make a wish.",
+   "normal": "normal/p078.mp3",
+   "slow": "slow/p078.mp3"
+  },
+  "p079": {
+   "text": "Put away your toys.",
+   "normal": "normal/p079.mp3",
+   "slow": "slow/p079.mp3"
+  },
+  "p080": {
+   "text": "I said goodbye to my friends.",
+   "normal": "normal/p080.mp3",
+   "slow": "slow/p080.mp3"
+  },
+  "p081": {
+   "text": "Please tell me the truth.",
+   "normal": "normal/p081.mp3",
+   "slow": "slow/p081.mp3"
+  },
+  "p082": {
+   "text": "May I ask a question?",
+   "normal": "normal/p082.mp3",
+   "slow": "slow/p082.mp3"
+  },
+  "p083": {
+   "text": "I'll call you back later.",
+   "normal": "normal/p083.mp3",
+   "slow": "slow/p083.mp3"
+  },
+  "p084": {
+   "text": "She is good at playing the piano.",
+   "normal": "normal/p084.mp3",
+   "slow": "slow/p084.mp3"
+  },
+  "p085": {
+   "text": "I'm interested in science.",
+   "normal": "normal/p085.mp3",
+   "slow": "slow/p085.mp3"
+  },
+  "p086": {
+   "text": "Osaka is famous for its food.",
+   "normal": "normal/p086.mp3",
+   "slow": "slow/p086.mp3"
+  },
+  "p087": {
+   "text": "I'm afraid of dogs.",
+   "normal": "normal/p087.mp3",
+   "slow": "slow/p087.mp3"
+  },
+  "p088": {
+   "text": "I'm proud of my team.",
+   "normal": "normal/p088.mp3",
+   "slow": "slow/p088.mp3"
+  },
+  "p089": {
+   "text": "Don't be late for school.",
+   "normal": "normal/p089.mp3",
+   "slow": "slow/p089.mp3"
+  },
+  "p090": {
+   "text": "The box is full of toys.",
+   "normal": "normal/p090.mp3",
+   "slow": "slow/p090.mp3"
+  },
+  "p091": {
+   "text": "She is kind to everyone.",
+   "normal": "normal/p091.mp3",
+   "slow": "slow/p091.mp3"
+  },
+  "p092": {
+   "text": "I'm going to study tonight.",
+   "normal": "normal/p092.mp3",
+   "slow": "slow/p092.mp3"
+  },
+  "p093": {
+   "text": "He is able to speak three languages.",
+   "normal": "normal/p093.mp3",
+   "slow": "slow/p093.mp3"
+  },
+  "p094": {
+   "text": "There is a tree in front of the school.",
+   "normal": "normal/p094.mp3",
+   "slow": "slow/p094.mp3"
+  },
+  "p095": {
+   "text": "The bank is next to the library.",
+   "normal": "normal/p095.mp3",
+   "slow": "slow/p095.mp3"
+  },
+  "p096": {
+   "text": "The game was canceled because of rain.",
+   "normal": "normal/p096.mp3",
+   "slow": "slow/p096.mp3"
+  },
+  "p097": {
+   "text": "In fact, I don't like fish.",
+   "normal": "normal/p097.mp3",
+   "slow": "slow/p097.mp3"
+  },
+  "p098": {
+   "text": "Of course, you can use it.",
+   "normal": "normal/p098.mp3",
+   "slow": "slow/p098.mp3"
+  },
+  "p099": {
+   "text": "At first, I was nervous.",
+   "normal": "normal/p099.mp3",
+   "slow": "slow/p099.mp3"
+  },
+  "p100": {
+   "text": "At last, we arrived.",
+   "normal": "normal/p100.mp3",
+   "slow": "slow/p100.mp3"
+  },
+  "p101": {
+   "text": "I like sports, for example, soccer.",
+   "normal": "normal/p101.mp3",
+   "slow": "slow/p101.mp3"
+  },
+  "p102": {
+   "text": "I have studied English for a long time.",
+   "normal": "normal/p102.mp3",
+   "slow": "slow/p102.mp3"
+  },
+  "p103": {
+   "text": "She has a lot of books.",
+   "normal": "normal/p103.mp3",
+   "slow": "slow/p103.mp3"
+  },
+  "p104": {
+   "text": "He is one of my best friends.",
+   "normal": "normal/p104.mp3",
+   "slow": "slow/p104.mp3"
+  },
+  "p105": {
+   "text": "We help each other.",
+   "normal": "normal/p105.mp3",
+   "slow": "slow/p105.mp3"
+  },
+  "p106": {
+   "text": "One day, I met a girl.",
+   "normal": "normal/p106.mp3",
+   "slow": "slow/p106.mp3"
+  },
+  "p107": {
+   "text": "By the way, what time is it?",
+   "normal": "normal/p107.mp3",
+   "slow": "slow/p107.mp3"
+  },
+  "p108": {
+   "text": "I stay at home on Sundays.",
+   "normal": "normal/p108.mp3",
+   "slow": "slow/p108.mp3"
+  },
+  "p109": {
+   "text": "He is at school now.",
+   "normal": "normal/p109.mp3",
+   "slow": "slow/p109.mp3"
+  },
+  "p110": {
+   "text": "The stars shine at night.",
+   "normal": "normal/p110.mp3",
+   "slow": "slow/p110.mp3"
+  },
+  "p111": {
+   "text": "I run in the morning.",
+   "normal": "normal/p111.mp3",
+   "slow": "slow/p111.mp3"
+  },
+  "p112": {
+   "text": "I go to school on foot.",
+   "normal": "normal/p112.mp3",
+   "slow": "slow/p112.mp3"
+  },
+  "p113": {
+   "text": "He goes to work by bus.",
+   "normal": "normal/p113.mp3",
+   "slow": "slow/p113.mp3"
+  },
+  "p114": {
+   "text": "We went there by train.",
+   "normal": "normal/p114.mp3",
+   "slow": "slow/p114.mp3"
+  },
+  "p115": {
+   "text": "My house is over there.",
+   "normal": "normal/p115.mp3",
+   "slow": "slow/p115.mp3"
+  },
+  "p116": {
+   "text": "It rained all day.",
+   "normal": "normal/p116.mp3",
+   "slow": "slow/p116.mp3"
+  },
+  "p117": {
+   "text": "I study English every day.",
+   "normal": "normal/p117.mp3",
+   "slow": "slow/p117.mp3"
+  },
+  "p118": {
+   "text": "I woke up late this morning.",
+   "normal": "normal/p118.mp3",
+   "slow": "slow/p118.mp3"
+  },
+  "p119": {
+   "text": "I slept well last night.",
+   "normal": "normal/p119.mp3",
+   "slow": "slow/p119.mp3"
+  },
+  "p120": {
+   "text": "We have a test next week.",
+   "normal": "normal/p120.mp3",
+   "slow": "slow/p120.mp3"
+  },
+  "p121": {
+   "text": "I'd like a cup of tea.",
+   "normal": "normal/p121.mp3",
+   "slow": "slow/p121.mp3"
+  },
+  "p122": {
+   "text": "He ate a piece of cake.",
+   "normal": "normal/p122.mp3",
+   "slow": "slow/p122.mp3"
+  },
+  "p123": {
+   "text": "She drank a glass of water.",
+   "normal": "normal/p123.mp3",
+   "slow": "slow/p123.mp3"
+  },
+  "p124": {
+   "text": "You eat too much.",
+   "normal": "normal/p124.mp3",
+   "slow": "slow/p124.mp3"
+  },
+  "p125": {
+   "text": "I speak a little English.",
+   "normal": "normal/p125.mp3",
+   "slow": "slow/p125.mp3"
+  },
+  "p126": {
+   "text": "They arrived at the same time.",
+   "normal": "normal/p126.mp3",
+   "slow": "slow/p126.mp3"
+  },
+  "p127": {
+   "text": "He is as tall as his father.",
+   "normal": "normal/p127.mp3",
+   "slow": "slow/p127.mp3"
+  },
+  "p128": {
+   "text": "Both Ken and Mike like baseball.",
+   "normal": "normal/p128.mp3",
+   "slow": "slow/p128.mp3"
+  },
+  "p129": {
+   "text": "I was so tired that I went to bed early.",
+   "normal": "normal/p129.mp3",
+   "slow": "slow/p129.mp3"
+  },
+  "p130": {
+   "text": "It is too cold to swim.",
+   "normal": "normal/p130.mp3",
+   "slow": "slow/p130.mp3"
+  },
+  "p131": {
+   "text": "Thank you for your help.",
+   "normal": "normal/p131.mp3",
+   "slow": "slow/p131.mp3"
+  },
+  "p132": {
+   "text": "I asked him to help me.",
+   "normal": "normal/p132.mp3",
+   "slow": "slow/p132.mp3"
+  },
+  "p133": {
+   "text": "My mother told me to clean my room.",
+   "normal": "normal/p133.mp3",
+   "slow": "slow/p133.mp3"
+  },
+  "p134": {
+   "text": "I want you to come.",
+   "normal": "normal/p134.mp3",
+   "slow": "slow/p134.mp3"
+  },
+  "p135": {
+   "text": "She helped me do my homework.",
+   "normal": "normal/p135.mp3",
+   "slow": "slow/p135.mp3"
+  },
+  "p136": {
+   "text": "It takes ten minutes to walk to the station.",
+   "normal": "normal/p136.mp3",
+   "slow": "slow/p136.mp3"
+  },
+  "p137": {
+   "text": "Let me see... It's on the table.",
+   "normal": "normal/p137.mp3",
+   "slow": "slow/p137.mp3"
+  },
+  "p138": {
+   "text": "Would you mind opening the window?",
+   "normal": "normal/p138.mp3",
+   "slow": "slow/p138.mp3"
+  },
+  "p139": {
+   "text": "Let's take a walk after dinner.",
+   "normal": "normal/p139.mp3",
+   "slow": "slow/p139.mp3"
+  },
+  "p140": {
+   "text": "Get off the bus at the next stop.",
+   "normal": "normal/p140.mp3",
+   "slow": "slow/p140.mp3"
+  },
+  "p141": {
+   "text": "I hope you get better soon.",
+   "normal": "normal/p141.mp3",
+   "slow": "slow/p141.mp3"
+  },
+  "p142": {
+   "text": "I made friends with a new student.",
+   "normal": "normal/p142.mp3",
+   "slow": "slow/p142.mp3"
+  },
+  "p143": {
+   "text": "He made a speech in class.",
+   "normal": "normal/p143.mp3",
+   "slow": "slow/p143.mp3"
+  },
+  "p144": {
+   "text": "Say hello to your family.",
+   "normal": "normal/p144.mp3",
+   "slow": "slow/p144.mp3"
+  },
+  "p145": {
+   "text": "Please turn down the radio.",
+   "normal": "normal/p145.mp3",
+   "slow": "slow/p145.mp3"
+  },
+  "p146": {
+   "text": "I grew up in Tokyo.",
+   "normal": "normal/p146.mp3",
+   "slow": "slow/p146.mp3"
+  },
+  "p147": {
+   "text": "Cheer up!",
+   "normal": "normal/p147.mp3",
+   "slow": "slow/p147.mp3"
+  },
+  "p148": {
+   "text": "The cat ran away.",
+   "normal": "normal/p148.mp3",
+   "slow": "slow/p148.mp3"
+  },
+  "p149": {
+   "text": "I fell asleep during the movie.",
+   "normal": "normal/p149.mp3",
+   "slow": "slow/p149.mp3"
+  },
+  "p150": {
+   "text": "Hurry up, or we'll be late.",
+   "normal": "normal/p150.mp3",
+   "slow": "slow/p150.mp3"
+  },
+  "p151": {
+   "text": "A fire broke out last night.",
+   "normal": "normal/p151.mp3",
+   "slow": "slow/p151.mp3"
+  },
+  "p152": {
+   "text": "She was brought up in Osaka.",
+   "normal": "normal/p152.mp3",
+   "slow": "slow/p152.mp3"
+  },
+  "p153": {
+   "text": "They called off the game.",
+   "normal": "normal/p153.mp3",
+   "slow": "slow/p153.mp3"
+  },
+  "p154": {
+   "text": "We carried out the plan.",
+   "normal": "normal/p154.mp3",
+   "slow": "slow/p154.mp3"
+  },
+  "p155": {
+   "text": "Don't catch a cold.",
+   "normal": "normal/p155.mp3",
+   "slow": "slow/p155.mp3"
+  },
+  "p156": {
+   "text": "He ran fast to catch up with her.",
+   "normal": "normal/p156.mp3",
+   "slow": "slow/p156.mp3"
+  },
+  "p157": {
+   "text": "Change trains at Tokyo Station.",
+   "normal": "normal/p157.mp3",
+   "slow": "slow/p157.mp3"
+  },
+  "p158": {
+   "text": "We checked in at the hotel.",
+   "normal": "normal/p158.mp3",
+   "slow": "slow/p158.mp3"
+  },
+  "p159": {
+   "text": "My dream came true.",
+   "normal": "normal/p159.mp3",
+   "slow": "slow/p159.mp3"
+  },
+  "p160": {
+   "text": "The sun came out.",
+   "normal": "normal/p160.mp3",
+   "slow": "slow/p160.mp3"
+  },
+  "p161": {
+   "text": "She came up with a good idea.",
+   "normal": "normal/p161.mp3",
+   "slow": "slow/p161.mp3"
+  },
+  "p162": {
+   "text": "Come on, let's go!",
+   "normal": "normal/p162.mp3",
+   "slow": "slow/p162.mp3"
+  },
+  "p163": {
+   "text": "They cut down the old tree.",
+   "normal": "normal/p163.mp3",
+   "slow": "slow/p163.mp3"
+  },
+  "p164": {
+   "text": "We enjoyed ourselves at the festival.",
+   "normal": "normal/p164.mp3",
+   "slow": "slow/p164.mp3"
+  },
+  "p165": {
+   "text": "He fell down on the ice.",
+   "normal": "normal/p165.mp3",
+   "slow": "slow/p165.mp3"
+  },
+  "p166": {
+   "text": "He fell in love with her.",
+   "normal": "normal/p166.mp3",
+   "slow": "slow/p166.mp3"
+  },
+  "p167": {
+   "text": "I feel like eating ice cream.",
+   "normal": "normal/p167.mp3",
+   "slow": "slow/p167.mp3"
+  },
+  "p168": {
+   "text": "Please feel at home.",
+   "normal": "normal/p168.mp3",
+   "slow": "slow/p168.mp3"
+  },
+  "p169": {
+   "text": "The thief got away.",
+   "normal": "normal/p169.mp3",
+   "slow": "slow/p169.mp3"
+  },
+  "p170": {
+   "text": "He got in the car.",
+   "normal": "normal/p170.mp3",
+   "slow": "slow/p170.mp3"
+  },
+  "p171": {
+   "text": "I got lost in the city.",
+   "normal": "normal/p171.mp3",
+   "slow": "slow/p171.mp3"
+  },
+  "p172": {
+   "text": "Let's get together on Saturday.",
+   "normal": "normal/p172.mp3",
+   "slow": "slow/p172.mp3"
+  },
+  "p173": {
+   "text": "I get tired easily.",
+   "normal": "normal/p173.mp3",
+   "slow": "slow/p173.mp3"
+  },
+  "p174": {
+   "text": "Go ahead. I'll follow.",
+   "normal": "normal/p174.mp3",
+   "slow": "slow/p174.mp3"
+  },
+  "p175": {
+   "text": "Go away!",
+   "normal": "normal/p175.mp3",
+   "slow": "slow/p175.mp3"
+  },
+  "p176": {
+   "text": "I want to go back to Japan.",
+   "normal": "normal/p176.mp3",
+   "slow": "slow/p176.mp3"
+  },
+  "p177": {
+   "text": "We went on a trip last summer.",
+   "normal": "normal/p177.mp3",
+   "slow": "slow/p177.mp3"
+  },
+  "p178": {
+   "text": "The train goes through a tunnel.",
+   "normal": "normal/p178.mp3",
+   "slow": "slow/p178.mp3"
+  },
+  "p179": {
+   "text": "I go to bed at ten.",
+   "normal": "normal/p179.mp3",
+   "slow": "slow/p179.mp3"
+  },
+  "p180": {
+   "text": "The price went up.",
+   "normal": "normal/p180.mp3",
+   "slow": "slow/p180.mp3"
+  },
+  "p181": {
+   "text": "The temperature went down.",
+   "normal": "normal/p181.mp3",
+   "slow": "slow/p181.mp3"
+  },
+  "p182": {
+   "text": "Let me have a look at it.",
+   "normal": "normal/p182.mp3",
+   "slow": "slow/p182.mp3"
+  },
+  "p183": {
+   "text": "Have fun!",
+   "normal": "normal/p183.mp3",
+   "slow": "slow/p183.mp3"
+  },
+  "p184": {
+   "text": "I have a headache.",
+   "normal": "normal/p184.mp3",
+   "slow": "slow/p184.mp3"
+  },
+  "p185": {
+   "text": "I have trouble with English.",
+   "normal": "normal/p185.mp3",
+   "slow": "slow/p185.mp3"
+  },
+  "p186": {
+   "text": "I heard about your trip.",
+   "normal": "normal/p186.mp3",
+   "slow": "slow/p186.mp3"
+  },
+  "p187": {
+   "text": "Help yourself to some cake.",
+   "normal": "normal/p187.mp3",
+   "slow": "slow/p187.mp3"
+  },
+  "p188": {
+   "text": "Hold on a minute.",
+   "normal": "normal/p188.mp3",
+   "slow": "slow/p188.mp3"
+  },
+  "p189": {
+   "text": "Keep trying.",
+   "normal": "normal/p189.mp3",
+   "slow": "slow/p189.mp3"
+  },
+  "p190": {
+   "text": "Let's keep in touch.",
+   "normal": "normal/p190.mp3",
+   "slow": "slow/p190.mp3"
+  },
+  "p191": {
+   "text": "He kept on running.",
+   "normal": "normal/p191.mp3",
+   "slow": "slow/p191.mp3"
+  },
+  "p192": {
+   "text": "Keep quiet in the library.",
+   "normal": "normal/p192.mp3",
+   "slow": "slow/p192.mp3"
+  },
+  "p193": {
+   "text": "I keep a diary every night.",
+   "normal": "normal/p193.mp3",
+   "slow": "slow/p193.mp3"
+  },
+  "p194": {
+   "text": "Do you know about this town?",
+   "normal": "normal/p194.mp3",
+   "slow": "slow/p194.mp3"
+  },
+  "p195": {
+   "text": "Don't laugh at him.",
+   "normal": "normal/p195.mp3",
+   "slow": "slow/p195.mp3"
+  },
+  "p196": {
+   "text": "We learned about Japanese history.",
+   "normal": "normal/p196.mp3",
+   "slow": "slow/p196.mp3"
+  },
+  "p197": {
+   "text": "He left for Tokyo this morning.",
+   "normal": "normal/p197.mp3",
+   "slow": "slow/p197.mp3"
+  },
+  "p198": {
+   "text": "I leave home at seven.",
+   "normal": "normal/p198.mp3",
+   "slow": "slow/p198.mp3"
+  },
+  "p199": {
+   "text": "I lay down on the sofa.",
+   "normal": "normal/p199.mp3",
+   "slow": "slow/p199.mp3"
+  },
+  "p200": {
+   "text": "Please line up here.",
+   "normal": "normal/p200.mp3",
+   "slow": "slow/p200.mp3"
+  },
+  "p201": {
+   "text": "Don't make a noise.",
+   "normal": "normal/p201.mp3",
+   "slow": "slow/p201.mp3"
+  },
+  "p202": {
+   "text": "He makes a living as a farmer.",
+   "normal": "normal/p202.mp3",
+   "slow": "slow/p202.mp3"
+  },
+  "p203": {
+   "text": "Make sure the door is locked.",
+   "normal": "normal/p203.mp3",
+   "slow": "slow/p203.mp3"
+  },
+  "p204": {
+   "text": "We make use of old clothes.",
+   "normal": "normal/p204.mp3",
+   "slow": "slow/p204.mp3"
+  },
+  "p205": {
+   "text": "I managed to finish my work.",
+   "normal": "normal/p205.mp3",
+   "slow": "slow/p205.mp3"
+  },
+  "p206": {
+   "text": "My family moved to Tokyo.",
+   "normal": "normal/p206.mp3",
+   "slow": "slow/p206.mp3"
+  },
+  "p207": {
+   "text": "Pay attention to the teacher.",
+   "normal": "normal/p207.mp3",
+   "slow": "slow/p207.mp3"
+  },
+  "p208": {
+   "text": "He pointed out my mistake.",
+   "normal": "normal/p208.mp3",
+   "slow": "slow/p208.mp3"
+  },
+  "p209": {
+   "text": "I'm preparing for the exam.",
+   "normal": "normal/p209.mp3",
+   "slow": "slow/p209.mp3"
+  },
+  "p210": {
+   "text": "The firefighters put out the fire.",
+   "normal": "normal/p210.mp3",
+   "slow": "slow/p210.mp3"
+  },
+  "p211": {
+   "text": "We ran out of water.",
+   "normal": "normal/p211.mp3",
+   "slow": "slow/p211.mp3"
+  },
+  "p212": {
+   "text": "The dog ran after the ball.",
+   "normal": "normal/p212.mp3",
+   "slow": "slow/p212.mp3"
+  },
+  "p213": {
+   "text": "I said to myself, \"I can do it.\"",
+   "normal": "normal/p213.mp3",
+   "slow": "slow/p213.mp3"
+  },
+  "p214": {
+   "text": "We went to see him off.",
+   "normal": "normal/p214.mp3",
+   "slow": "slow/p214.mp3"
+  },
+  "p215": {
+   "text": "They set up a new club.",
+   "normal": "normal/p215.mp3",
+   "slow": "slow/p215.mp3"
+  },
+  "p216": {
+   "text": "He didn't show up.",
+   "normal": "normal/p216.mp3",
+   "slow": "slow/p216.mp3"
+  },
+  "p217": {
+   "text": "I spoke to her yesterday.",
+   "normal": "normal/p217.mp3",
+   "slow": "slow/p217.mp3"
+  },
+  "p218": {
+   "text": "\"UN\" stands for United Nations.",
+   "normal": "normal/p218.mp3",
+   "slow": "slow/p218.mp3"
+  },
+  "p219": {
+   "text": "It started to rain.",
+   "normal": "normal/p219.mp3",
+   "slow": "slow/p219.mp3"
+  },
+  "p220": {
+   "text": "I stayed at my uncle's house.",
+   "normal": "normal/p220.mp3",
+   "slow": "slow/p220.mp3"
+  },
+  "p221": {
+   "text": "Don't stay up late.",
+   "normal": "normal/p221.mp3",
+   "slow": "slow/p221.mp3"
+  },
+  "p222": {
+   "text": "Stop talking.",
+   "normal": "normal/p222.mp3",
+   "slow": "slow/p222.mp3"
+  },
+  "p223": {
+   "text": "He takes after his father.",
+   "normal": "normal/p223.mp3",
+   "slow": "slow/p223.mp3"
+  },
+  "p224": {
+   "text": "The festival takes place in July.",
+   "normal": "normal/p224.mp3",
+   "slow": "slow/p224.mp3"
+  },
+  "p225": {
+   "text": "We took turns driving.",
+   "normal": "normal/p225.mp3",
+   "slow": "slow/p225.mp3"
+  },
+  "p226": {
+   "text": "Let's talk about our plan.",
+   "normal": "normal/p226.mp3",
+   "slow": "slow/p226.mp3"
+  },
+  "p227": {
+   "text": "Don't tell a lie.",
+   "normal": "normal/p227.mp3",
+   "slow": "slow/p227.mp3"
+  },
+  "p228": {
+   "text": "Don't throw away the paper.",
+   "normal": "normal/p228.mp3",
+   "slow": "slow/p228.mp3"
+  },
+  "p229": {
+   "text": "I tried to open the door.",
+   "normal": "normal/p229.mp3",
+   "slow": "slow/p229.mp3"
+  },
+  "p230": {
+   "text": "Try using this pen.",
+   "normal": "normal/p230.mp3",
+   "slow": "slow/p230.mp3"
+  },
+  "p231": {
+   "text": "She turned around.",
+   "normal": "normal/p231.mp3",
+   "slow": "slow/p231.mp3"
+  },
+  "p232": {
+   "text": "Turn left at the corner.",
+   "normal": "normal/p232.mp3",
+   "slow": "slow/p232.mp3"
+  },
+  "p233": {
+   "text": "Turn right at the bank.",
+   "normal": "normal/p233.mp3",
+   "slow": "slow/p233.mp3"
+  },
+  "p234": {
+   "text": "Watch out for cars!",
+   "normal": "normal/p234.mp3",
+   "slow": "slow/p234.mp3"
+  },
+  "p235": {
+   "text": "I'm working on my homework.",
+   "normal": "normal/p235.mp3",
+   "slow": "slow/p235.mp3"
+  },
+  "p236": {
+   "text": "I would like to visit Kyoto.",
+   "normal": "normal/p236.mp3",
+   "slow": "slow/p236.mp3"
+  },
+  "p237": {
+   "text": "Don't worry about it.",
+   "normal": "normal/p237.mp3",
+   "slow": "slow/p237.mp3"
+  },
+  "p238": {
+   "text": "Are you ready for the test?",
+   "normal": "normal/p238.mp3",
+   "slow": "slow/p238.mp3"
+  },
+  "p239": {
+   "text": "My idea is different from yours.",
+   "normal": "normal/p239.mp3",
+   "slow": "slow/p239.mp3"
+  },
+  "p240": {
+   "text": "I was surprised at the news.",
+   "normal": "normal/p240.mp3",
+   "slow": "slow/p240.mp3"
+  },
+  "p241": {
+   "text": "He is worried about his exam.",
+   "normal": "normal/p241.mp3",
+   "slow": "slow/p241.mp3"
+  },
+  "p242": {
+   "text": "I was born in Tokyo.",
+   "normal": "normal/p242.mp3",
+   "slow": "slow/p242.mp3"
+  },
+  "p243": {
+   "text": "He is known as a great singer.",
+   "normal": "normal/p243.mp3",
+   "slow": "slow/p243.mp3"
+  },
+  "p244": {
+   "text": "The song is known to everyone.",
+   "normal": "normal/p244.mp3",
+   "slow": "slow/p244.mp3"
+  },
+  "p245": {
+   "text": "This desk is made of wood.",
+   "normal": "normal/p245.mp3",
+   "slow": "slow/p245.mp3"
+  },
+  "p246": {
+   "text": "Cheese is made from milk.",
+   "normal": "normal/p246.mp3",
+   "slow": "slow/p246.mp3"
+  },
+  "p247": {
+   "text": "I'm satisfied with my score.",
+   "normal": "normal/p247.mp3",
+   "slow": "slow/p247.mp3"
+  },
+  "p248": {
+   "text": "I'm tired of this game.",
+   "normal": "normal/p248.mp3",
+   "slow": "slow/p248.mp3"
+  },
+  "p249": {
+   "text": "I'm used to getting up early.",
+   "normal": "normal/p249.mp3",
+   "slow": "slow/p249.mp3"
+  },
+  "p250": {
+   "text": "This tool is used for cutting paper.",
+   "normal": "normal/p250.mp3",
+   "slow": "slow/p250.mp3"
+  },
+  "p251": {
+   "text": "I'm sure of his success.",
+   "normal": "normal/p251.mp3",
+   "slow": "slow/p251.mp3"
+  },
+  "p252": {
+   "text": "The room was filled with music.",
+   "normal": "normal/p252.mp3",
+   "slow": "slow/p252.mp3"
+  },
+  "p253": {
+   "text": "The mountain is covered with snow.",
+   "normal": "normal/p253.mp3",
+   "slow": "slow/p253.mp3"
+  },
+  "p254": {
+   "text": "The song is popular with young people.",
+   "normal": "normal/p254.mp3",
+   "slow": "slow/p254.mp3"
+  },
+  "p255": {
+   "text": "I'm in trouble.",
+   "normal": "normal/p255.mp3",
+   "slow": "slow/p255.mp3"
+  },
+  "p256": {
+   "text": "We were in time for the last train.",
+   "normal": "normal/p256.mp3",
+   "slow": "slow/p256.mp3"
+  },
+  "p257": {
+   "text": "The game is over.",
+   "normal": "normal/p257.mp3",
+   "slow": "slow/p257.mp3"
+  },
+  "p258": {
+   "text": "My house is far from here.",
+   "normal": "normal/p258.mp3",
+   "slow": "slow/p258.mp3"
+  },
+  "p259": {
+   "text": "We stood at the top of the mountain.",
+   "normal": "normal/p259.mp3",
+   "slow": "slow/p259.mp3"
+  },
+  "p260": {
+   "text": "This song is loved all over the world.",
+   "normal": "normal/p260.mp3",
+   "slow": "slow/p260.mp3"
+  },
+  "p261": {
+   "text": "I have a few friends.",
+   "normal": "normal/p261.mp3",
+   "slow": "slow/p261.mp3"
+  },
+  "p262": {
+   "text": "I want to be a teacher in the future.",
+   "normal": "normal/p262.mp3",
+   "slow": "slow/p262.mp3"
+  },
+  "p263": {
+   "text": "He made it by himself.",
+   "normal": "normal/p263.mp3",
+   "slow": "slow/p263.mp3"
+  },
+  "p264": {
+   "text": "The train arrived on time.",
+   "normal": "normal/p264.mp3",
+   "slow": "slow/p264.mp3"
+  },
+  "p265": {
+   "text": "I'm busy right now.",
+   "normal": "normal/p265.mp3",
+   "slow": "slow/p265.mp3"
+  },
+  "p266": {
+   "text": "It is the biggest city in the world.",
+   "normal": "normal/p266.mp3",
+   "slow": "slow/p266.mp3"
+  },
+  "p267": {
+   "text": "I went abroad for the first time.",
+   "normal": "normal/p267.mp3",
+   "slow": "slow/p267.mp3"
+  },
+  "p268": {
+   "text": "I met him on my way to school.",
+   "normal": "normal/p268.mp3",
+   "slow": "slow/p268.mp3"
+  },
+  "p269": {
+   "text": "I play basketball after school.",
+   "normal": "normal/p269.mp3",
+   "slow": "slow/p269.mp3"
+  },
+  "p270": {
+   "text": "After that, we had lunch.",
+   "normal": "normal/p270.mp3",
+   "slow": "slow/p270.mp3"
+  },
+  "p271": {
+   "text": "He tried again and again.",
+   "normal": "normal/p271.mp3",
+   "slow": "slow/p271.mp3"
+  },
+  "p272": {
+   "text": "She smiles all the time.",
+   "normal": "normal/p272.mp3",
+   "slow": "slow/p272.mp3"
+  },
+  "p273": {
+   "text": "I like math, and science as well.",
+   "normal": "normal/p273.mp3",
+   "slow": "slow/p273.mp3"
+  },
+  "p274": {
+   "text": "It rained, and as a result the game was canceled.",
+   "normal": "normal/p274.mp3",
+   "slow": "slow/p274.mp3"
+  },
+  "p275": {
+   "text": "At the end of the year, we had a party.",
+   "normal": "normal/p275.mp3",
+   "slow": "slow/p275.mp3"
+  },
+  "p276": {
+   "text": "You should read at least ten pages.",
+   "normal": "normal/p276.mp3",
+   "slow": "slow/p276.mp3"
+  },
+  "p277": {
+   "text": "Come here at once.",
+   "normal": "normal/p277.mp3",
+   "slow": "slow/p277.mp3"
+  },
+  "p278": {
+   "text": "He started piano at the age of five.",
+   "normal": "normal/p278.mp3",
+   "slow": "slow/p278.mp3"
+  },
+  "p279": {
+   "text": "I took your bag by mistake.",
+   "normal": "normal/p279.mp3",
+   "slow": "slow/p279.mp3"
+  },
+  "p280": {
+   "text": "Each of the students has a book.",
+   "normal": "normal/p280.mp3",
+   "slow": "slow/p280.mp3"
+  },
+  "p281": {
+   "text": "They talked face to face.",
+   "normal": "normal/p281.mp3",
+   "slow": "slow/p281.mp3"
+  },
+  "p282": {
+   "text": "My uncle lives far away.",
+   "normal": "normal/p282.mp3",
+   "slow": "slow/p282.mp3"
+  },
+  "p283": {
+   "text": "First of all, let me thank you.",
+   "normal": "normal/p283.mp3",
+   "slow": "slow/p283.mp3"
+  },
+  "p284": {
+   "text": "From now on, I will study harder.",
+   "normal": "normal/p284.mp3",
+   "slow": "slow/p284.mp3"
+  },
+  "p285": {
+   "text": "In addition, he speaks French.",
+   "normal": "normal/p285.mp3",
+   "slow": "slow/p285.mp3"
+  },
+  "p286": {
+   "text": "The animals are in danger.",
+   "normal": "normal/p286.mp3",
+   "slow": "slow/p286.mp3"
+  },
+  "p287": {
+   "text": "In general, I get up early.",
+   "normal": "normal/p287.mp3",
+   "slow": "slow/p287.mp3"
+  },
+  "p288": {
+   "text": "There is a pond in the middle of the park.",
+   "normal": "normal/p288.mp3",
+   "slow": "slow/p288.mp3"
+  },
+  "p289": {
+   "text": "In the past, people used candles.",
+   "normal": "normal/p289.mp3",
+   "slow": "slow/p289.mp3"
+  },
+  "p290": {
+   "text": "We arrived in time.",
+   "normal": "normal/p290.mp3",
+   "slow": "slow/p290.mp3"
+  },
+  "p291": {
+   "text": "He studied hard in order to pass the exam.",
+   "normal": "normal/p291.mp3",
+   "slow": "slow/p291.mp3"
+  },
+  "p292": {
+   "text": "In this way, we can save water.",
+   "normal": "normal/p292.mp3",
+   "slow": "slow/p292.mp3"
+  },
+  "p293": {
+   "text": "There are many kinds of flowers.",
+   "normal": "normal/p293.mp3",
+   "slow": "slow/p293.mp3"
+  },
+  "p294": {
+   "text": "More than 100 people came.",
+   "normal": "normal/p294.mp3",
+   "slow": "slow/p294.mp3"
+  },
+  "p295": {
+   "text": "I'm not tired at all.",
+   "normal": "normal/p295.mp3",
+   "slow": "slow/p295.mp3"
+  },
+  "p296": {
+   "text": "Rich people are not always happy.",
+   "normal": "normal/p296.mp3",
+   "slow": "slow/p296.mp3"
+  },
+  "p297": {
+   "text": "He no longer lives here.",
+   "normal": "normal/p297.mp3",
+   "slow": "slow/p297.mp3"
+  },
+  "p298": {
+   "text": "No one knows the answer.",
+   "normal": "normal/p298.mp3",
+   "slow": "slow/p298.mp3"
+  },
+  "p299": {
+   "text": "None of them came.",
+   "normal": "normal/p299.mp3",
+   "slow": "slow/p299.mp3"
+  },
+  "p300": {
+   "text": "I met him on my way home.",
+   "normal": "normal/p300.mp3",
+   "slow": "slow/p300.mp3"
+  },
+  "p301": {
+   "text": "She is on the phone.",
+   "normal": "normal/p301.mp3",
+   "slow": "slow/p301.mp3"
+  },
+  "p302": {
+   "text": "He lives on the other side of the river.",
+   "normal": "normal/p302.mp3",
+   "slow": "slow/p302.mp3"
+  },
+  "p303": {
+   "text": "I swim once a week.",
+   "normal": "normal/p303.mp3",
+   "slow": "slow/p303.mp3"
+  },
+  "p304": {
+   "text": "Once upon a time, there lived a king.",
+   "normal": "normal/p304.mp3",
+   "slow": "slow/p304.mp3"
+  },
+  "p305": {
+   "text": "I read the book over and over.",
+   "normal": "normal/p305.mp3",
+   "slow": "slow/p305.mp3"
+  },
+  "p306": {
+   "text": "I like tea rather than coffee.",
+   "normal": "normal/p306.mp3",
+   "slow": "slow/p306.mp3"
+  },
+  "p307": {
+   "text": "Sooner or later, you will understand.",
+   "normal": "normal/p307.mp3",
+   "slow": "slow/p307.mp3"
+  },
+  "p308": {
+   "text": "I saw him the other day.",
+   "normal": "normal/p308.mp3",
+   "slow": "slow/p308.mp3"
+  },
+  "p309": {
+   "text": "I met her the day before yesterday.",
+   "normal": "normal/p309.mp3",
+   "slow": "slow/p309.mp3"
+  },
+  "p310": {
+   "text": "The next day, it snowed.",
+   "normal": "normal/p310.mp3",
+   "slow": "slow/p310.mp3"
+  },
+  "p311": {
+   "text": "These days, I get up early.",
+   "normal": "normal/p311.mp3",
+   "slow": "slow/p311.mp3"
+  },
+  "p312": {
+   "text": "Let me know your plan.",
+   "normal": "normal/p312.mp3",
+   "slow": "slow/p312.mp3"
+  },
+  "p313": {
+   "text": "Call me as soon as you arrive.",
+   "normal": "normal/p313.mp3",
+   "slow": "slow/p313.mp3"
+  },
+  "p314": {
+   "text": "I like sports such as tennis.",
+   "normal": "normal/p314.mp3",
+   "slow": "slow/p314.mp3"
+  },
+  "p315": {
+   "text": "I'll take you to the station.",
+   "normal": "normal/p315.mp3",
+   "slow": "slow/p315.mp3"
+  },
+  "p316": {
+   "text": "Tell me about your family.",
+   "normal": "normal/p316.mp3",
+   "slow": "slow/p316.mp3"
+  },
+  "p317": {
+   "text": "This is the same as that.",
+   "normal": "normal/p317.mp3",
+   "slow": "slow/p317.mp3"
+  },
+  "p318": {
+   "text": "We use knives for cutting.",
+   "normal": "normal/p318.mp3",
+   "slow": "slow/p318.mp3"
+  },
+  "p319": {
+   "text": "I don't know what to do.",
+   "normal": "normal/p319.mp3",
+   "slow": "slow/p319.mp3"
+  },
+  "p320": {
+   "text": "I know how to cook.",
+   "normal": "normal/p320.mp3",
+   "slow": "slow/p320.mp3"
+  },
+  "p321": {
+   "text": "I get along with my classmates.",
+   "normal": "normal/p321.mp3",
+   "slow": "slow/p321.mp3"
+  },
+  "p322": {
+   "text": "It depends on the weather.",
+   "normal": "normal/p322.mp3",
+   "slow": "slow/p322.mp3"
+  },
+  "p323": {
+   "text": "I made up my mind to study hard.",
+   "normal": "normal/p323.mp3",
+   "slow": "slow/p323.mp3"
+  },
+  "p324": {
+   "text": "I used to play soccer.",
+   "normal": "normal/p324.mp3",
+   "slow": "slow/p324.mp3"
+  },
+  "p325": {
+   "text": "You had better see a doctor.",
+   "normal": "normal/p325.mp3",
+   "slow": "slow/p325.mp3"
+  },
+  "p326": {
+   "text": "I heard from my uncle yesterday.",
+   "normal": "normal/p326.mp3",
+   "slow": "slow/p326.mp3"
+  },
+  "p327": {
+   "text": "Please pick up that paper.",
+   "normal": "normal/p327.mp3",
+   "slow": "slow/p327.mp3"
+  },
+  "p328": {
+   "text": "Can I try on this jacket?",
+   "normal": "normal/p328.mp3",
+   "slow": "slow/p328.mp3"
+  },
+  "p329": {
+   "text": "I found out the answer.",
+   "normal": "normal/p329.mp3",
+   "slow": "slow/p329.mp3"
+  },
+  "p330": {
+   "text": "I came across an old friend.",
+   "normal": "normal/p330.mp3",
+   "slow": "slow/p330.mp3"
+  },
+  "p331": {
+   "text": "We have to deal with the problem.",
+   "normal": "normal/p331.mp3",
+   "slow": "slow/p331.mp3"
+  },
+  "p332": {
+   "text": "I ended up staying home.",
+   "normal": "normal/p332.mp3",
+   "slow": "slow/p332.mp3"
+  },
+  "p333": {
+   "text": "She got over her illness.",
+   "normal": "normal/p333.mp3",
+   "slow": "slow/p333.mp3"
+  },
+  "p334": {
+   "text": "Let's get rid of the old clothes.",
+   "normal": "normal/p334.mp3",
+   "slow": "slow/p334.mp3"
+  },
+  "p335": {
+   "text": "I got used to the cold weather.",
+   "normal": "normal/p335.mp3",
+   "slow": "slow/p335.mp3"
+  },
+  "p336": {
+   "text": "He finally gave in.",
+   "normal": "normal/p336.mp3",
+   "slow": "slow/p336.mp3"
+  },
+  "p337": {
+   "text": "Everything went well.",
+   "normal": "normal/p337.mp3",
+   "slow": "slow/p337.mp3"
+  },
+  "p338": {
+   "text": "It has nothing to do with me.",
+   "normal": "normal/p338.mp3",
+   "slow": "slow/p338.mp3"
+  },
+  "p339": {
+   "text": "It's hard to keep up with him.",
+   "normal": "normal/p339.mp3",
+   "slow": "slow/p339.mp3"
+  },
+  "p340": {
+   "text": "Don't look down on others.",
+   "normal": "normal/p340.mp3",
+   "slow": "slow/p340.mp3"
+  },
+  "p341": {
+   "text": "I look up to my teacher.",
+   "normal": "normal/p341.mp3",
+   "slow": "slow/p341.mp3"
+  },
+  "p342": {
+   "text": "I'll make up for the lost time.",
+   "normal": "normal/p342.mp3",
+   "slow": "slow/p342.mp3"
+  },
+  "p343": {
+   "text": "Don't make fun of him.",
+   "normal": "normal/p343.mp3",
+   "slow": "slow/p343.mp3"
+  },
+  "p344": {
+   "text": "The machine is out of order.",
+   "normal": "normal/p344.mp3",
+   "slow": "slow/p344.mp3"
+  },
+  "p345": {
+   "text": "Don't put off your homework.",
+   "normal": "normal/p345.mp3",
+   "slow": "slow/p345.mp3"
+  },
+  "p346": {
+   "text": "I can't put up with the noise.",
+   "normal": "normal/p346.mp3",
+   "slow": "slow/p346.mp3"
+  },
+  "p347": {
+   "text": "The plan resulted in success.",
+   "normal": "normal/p347.mp3",
+   "slow": "slow/p347.mp3"
+  },
+  "p348": {
+   "text": "You can rely on me.",
+   "normal": "normal/p348.mp3",
+   "slow": "slow/p348.mp3"
+  },
+  "p349": {
+   "text": "I'll stand by you.",
+   "normal": "normal/p349.mp3",
+   "slow": "slow/p349.mp3"
+  },
+  "p350": {
+   "text": "Take advantage of this chance.",
+   "normal": "normal/p350.mp3",
+   "slow": "slow/p350.mp3"
+  },
+  "p351": {
+   "text": "The story turned out to be true.",
+   "normal": "normal/p351.mp3",
+   "slow": "slow/p351.mp3"
+  },
+  "p352": {
+   "text": "Your help made a difference.",
+   "normal": "normal/p352.mp3",
+   "slow": "slow/p352.mp3"
+  },
+  "p353": {
+   "text": "He is making progress in English.",
+   "normal": "normal/p353.mp3",
+   "slow": "slow/p353.mp3"
+  },
+  "p354": {
+   "text": "Sports play an important role in our life.",
+   "normal": "normal/p354.mp3",
+   "slow": "slow/p354.mp3"
+  },
+  "p355": {
+   "text": "We paid a visit to our teacher.",
+   "normal": "normal/p355.mp3",
+   "slow": "slow/p355.mp3"
+  },
+  "p356": {
+   "text": "The rain prevented us from going out.",
+   "normal": "normal/p356.mp3",
+   "slow": "slow/p356.mp3"
+  },
+  "p357": {
+   "text": "Noise kept me from sleeping.",
+   "normal": "normal/p357.mp3",
+   "slow": "slow/p357.mp3"
+  },
+  "p358": {
+   "text": "I would rather stay home.",
+   "normal": "normal/p358.mp3",
+   "slow": "slow/p358.mp3"
+  },
+  "p359": {
+   "text": "The train is about to leave.",
+   "normal": "normal/p359.mp3",
+   "slow": "slow/p359.mp3"
+  },
+  "p360": {
+   "text": "The movie is based on a true story.",
+   "normal": "normal/p360.mp3",
+   "slow": "slow/p360.mp3"
+  },
+  "p361": {
+   "text": "He is capable of running fast.",
+   "normal": "normal/p361.mp3",
+   "slow": "slow/p361.mp3"
+  },
+  "p362": {
+   "text": "The street was crowded with people.",
+   "normal": "normal/p362.mp3",
+   "slow": "slow/p362.mp3"
+  },
+  "p363": {
+   "text": "She is fond of music.",
+   "normal": "normal/p363.mp3",
+   "slow": "slow/p363.mp3"
+  },
+  "p364": {
+   "text": "Fruit is good for you.",
+   "normal": "normal/p364.mp3",
+   "slow": "slow/p364.mp3"
+  },
+  "p365": {
+   "text": "He is responsible for the mistake.",
+   "normal": "normal/p365.mp3",
+   "slow": "slow/p365.mp3"
+  },
+  "p366": {
+   "text": "I'm supposed to meet him at noon.",
+   "normal": "normal/p366.mp3",
+   "slow": "slow/p366.mp3"
+  },
+  "p367": {
+   "text": "I'm willing to help you.",
+   "normal": "normal/p367.mp3",
+   "slow": "slow/p367.mp3"
+  },
+  "p368": {
+   "text": "Thanks to you, I passed the test.",
+   "normal": "normal/p368.mp3",
+   "slow": "slow/p368.mp3"
+  },
+  "p369": {
+   "text": "I had tea instead of coffee.",
+   "normal": "normal/p369.mp3",
+   "slow": "slow/p369.mp3"
+  },
+  "p370": {
+   "text": "On the other hand, he likes math.",
+   "normal": "normal/p370.mp3",
+   "slow": "slow/p370.mp3"
+  },
+  "p371": {
+   "text": "I bought a pair of shoes.",
+   "normal": "normal/p371.mp3",
+   "slow": "slow/p371.mp3"
+  },
+  "p372": {
+   "text": "This is a kind of fruit.",
+   "normal": "normal/p372.mp3",
+   "slow": "slow/p372.mp3"
+  },
+  "p373": {
+   "text": "More and more people use smartphones.",
+   "normal": "normal/p373.mp3",
+   "slow": "slow/p373.mp3"
+  },
+  "p374": {
+   "text": "According to the news, it will snow.",
+   "normal": "normal/p374.mp3",
+   "slow": "slow/p374.mp3"
+  },
+  "p375": {
+   "text": "As for me, I like summer.",
+   "normal": "normal/p375.mp3",
+   "slow": "slow/p375.mp3"
+  },
+  "p376": {
+   "text": "By the time I got home, it was dark.",
+   "normal": "normal/p376.mp3",
+   "slow": "slow/p376.mp3"
+  },
+  "p377": {
+   "text": "The train was late due to snow.",
+   "normal": "normal/p377.mp3",
+   "slow": "slow/p377.mp3"
+  },
+  "p378": {
+   "text": "We played in spite of the rain.",
+   "normal": "normal/p378.mp3",
+   "slow": "slow/p378.mp3"
+  },
+  "p379": {
+   "text": "She is in charge of the club.",
+   "normal": "normal/p379.mp3",
+   "slow": "slow/p379.mp3"
+  },
+  "p380": {
+   "text": "I'm in favor of the plan.",
+   "normal": "normal/p380.mp3",
+   "slow": "slow/p380.mp3"
+  },
+  "p381": {
+   "text": "No matter what happens, I'll try.",
+   "normal": "normal/p381.mp3",
+   "slow": "slow/p381.mp3"
+  },
+  "p382": {
+   "text": "I speak on behalf of our class.",
+   "normal": "normal/p382.mp3",
+   "slow": "slow/p382.mp3"
+  },
+  "p383": {
+   "text": "He broke it on purpose.",
+   "normal": "normal/p383.mp3",
+   "slow": "slow/p383.mp3"
+  },
+  "p384": {
+   "text": "So far, I've read three books.",
+   "normal": "normal/p384.mp3",
+   "slow": "slow/p384.mp3"
+  },
+  "p385": {
+   "text": "She speaks not only English but also French.",
+   "normal": "normal/p385.mp3",
+   "slow": "slow/p385.mp3"
+  },
+  "p386": {
+   "text": "You can have either tea or coffee.",
+   "normal": "normal/p386.mp3",
+   "slow": "slow/p386.mp3"
+  },
+  "p387": {
+   "text": "He is old enough to drive.",
+   "normal": "normal/p387.mp3",
+   "slow": "slow/p387.mp3"
+  },
+  "p388": {
+   "text": "I'll show you around the city.",
+   "normal": "normal/p388.mp3",
+   "slow": "slow/p388.mp3"
+  },
+  "p389": {
+   "text": "It is important for us to study.",
+   "normal": "normal/p389.mp3",
+   "slow": "slow/p389.mp3"
+  },
+  "p390": {
+   "text": "You can stay as long as you like.",
+   "normal": "normal/p390.mp3",
+   "slow": "slow/p390.mp3"
+  },
+  "p391": {
+   "text": "As many as 500 people came.",
+   "normal": "normal/p391.mp3",
+   "slow": "slow/p391.mp3"
+  },
+  "p392": {
+   "text": "The school provides us with books.",
+   "normal": "normal/p392.mp3",
+   "slow": "slow/p392.mp3"
+  },
+  "p393": {
+   "text": "This photo reminds me of my trip.",
+   "normal": "normal/p393.mp3",
+   "slow": "slow/p393.mp3"
+  },
+  "p394": {
+   "text": "I study hard so that I can pass.",
+   "normal": "normal/p394.mp3",
+   "slow": "slow/p394.mp3"
+  },
+  "p395": {
+   "text": "The more you read, the more you learn.",
+   "normal": "normal/p395.mp3",
+   "slow": "slow/p395.mp3"
+  },
+  "p396": {
+   "text": "I don't know whether he will come or not.",
+   "normal": "normal/p396.mp3",
+   "slow": "slow/p396.mp3"
+  }
+ }
+}
